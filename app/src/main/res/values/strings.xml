@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GloboChats</string>
+    <string name="title_font_size">Font Size</string>
+    <string name="summary_font_size">Font Size: $value</string>
+</resources>
